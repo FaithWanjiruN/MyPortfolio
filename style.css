@@ -237,7 +237,7 @@ button:hover{
     cursor: pointer;
 }
 .services{
-    background-color:#efebcf;
+    background-color:#e4dfbc;
     padding-top: 200px;
     margin-left: 40px;
 
@@ -307,7 +307,7 @@ button:hover{
 }
 
 .contact{
-    background-color: #efebcf;
+    background-color: #e4dfbc;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
@@ -344,7 +344,7 @@ button:hover{
 }
 .list li a{
     display: block;
-    color:#b13c3c;
+    color:#b66262;
     font-size: 14px;
     font-weight: bold;
     transition: all .45s ease;
